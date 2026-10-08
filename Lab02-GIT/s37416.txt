@@ -1,2 +1,3 @@
-Name: {Kacper Duchnowski}
+Name: Kacper Duchnowski
 University: PJATK
+Student id: s37416
